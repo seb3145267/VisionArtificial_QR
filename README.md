@@ -1,0 +1,1 @@
+# VisionArtificial_QR
